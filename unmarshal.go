@@ -1,8 +1,8 @@
 package gosip
 
 import (
-	log "github.com/gogap/logrus"
 	"github.com/lastsweetop/gosip/sipHeaderName"
+	"log"
 	"strconv"
 	"strings"
 )
