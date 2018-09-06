@@ -1,4 +1,4 @@
-package sip
+package gosip
 
 import (
 	log "github.com/gogap/logrus"
